@@ -1,0 +1,10 @@
+{
+  "name": "Remix: ResQ Operator Panel",
+  "description": "Operator frontend web application for the ResQ emergency dispatch system, designed for mobile deployment with tactical live maps, fleet management, and real-time dispatch logging.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
